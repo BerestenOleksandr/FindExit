@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\bin\Debug\Labirint2D.exe.config
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\bin\Debug\Labirint2D.exe
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\bin\Debug\Labirint2D.pdb
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\obj\Debug\Labirint2D.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\obj\Debug\Labirint2D.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\obj\Debug\Labirint2D.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\obj\Debug\Labirint2D.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\obj\Debug\Labirint2D.exe
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\obj\Debug\Labirint2D.pdb
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\obj\Debug\Labirint2D.FormMenu.resources
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\obj\Debug\Labirint2D.FormLevel1.resources
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\obj\Debug\Labirint2D.FormLevel2.resources
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\obj\Debug\Labirint2D.FormLevel3.resources
+C:\Users\Lenovo\Desktop\Labirint2D\Labirint2D\obj\Debug\Labirint2D.FormRules.resources
